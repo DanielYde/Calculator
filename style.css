@@ -14,9 +14,11 @@
      background: transparent;
      width: 75%;
      height: 100px;
+     border-radius: 5px;
      border: 3px solid grey;
      position: absolute;
      top: 75px;
+     box-shadow: 0px 0px 0px 3px rgba(149, 149, 149, 0.52);
  }
 
  .Output p {
